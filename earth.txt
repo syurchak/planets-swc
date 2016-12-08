@@ -1,1 +1,2 @@
-Earth is a planet
+Earth is a planet.
+I agree.
